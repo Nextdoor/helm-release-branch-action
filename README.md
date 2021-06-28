@@ -1,1 +1,2 @@
-# helm-release-branch-action
+# `helm-release-branch-action`
+
